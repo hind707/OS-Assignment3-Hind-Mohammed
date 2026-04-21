@@ -28,8 +28,8 @@
 ---
 
 ## Part 1: Development Log (1 mark)
-
-Document your development process with **minimum 3 entries** showing progression:
+- Date: April 21, 2026
+Action: Forked the starter repository on GitHub, made it public, cloned it to my local machine using VS Code, and updated my student ID in the SchedulerSimulationSync.java file.
 
 ### Entry 1 - [Date, Time]
 **What I implemented**: 
