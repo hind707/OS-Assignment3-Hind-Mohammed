@@ -93,7 +93,7 @@ class SharedResources {
             // Task 2: Always unlock in the finally block as required
             lock.unlock();
         }
-      
+    }
 }
 
 // Class representing a process that implements Runnable to be run by a thread
