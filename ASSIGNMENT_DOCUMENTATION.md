@@ -30,6 +30,8 @@
 ## Part 1: Development Log (1 mark)
 - Date: April 21, 2026
 Action: Forked the starter repository on GitHub, made it public, cloned it to my local machine using VS Code, and updated my student ID in the SchedulerSimulationSync.java file.
+- Date: April 22, 2026
+Action: Implemented Task 1 and Task 2 by adding ReentrantLock to prevent race conditions on shared counters and the execution log. Used try-finally blocks as required.
 
 ### Entry 1 - [Date, Time]
 **What I implemented**: 
