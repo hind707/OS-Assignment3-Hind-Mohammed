@@ -84,10 +84,13 @@ class SharedResources {
     
     // Method to log execution
     public static void logExecution(String message) {
+       // Task 2: Protecting the executionLog ArrayList using ReentrantLock
+        // This prevents ConcurrentModificationException when multiple threads try to add logs
         lock.lock();
         try {
             executionLog.add(message);
         } finally {
+            // Task 2: Always unlock in the finally block as required
             lock.unlock();
         }
       
