@@ -265,19 +265,23 @@ Imagine a lock is like the key to a single-occupancy bathroom. Only one person (
 
 ## Part 6: GitHub Repository Information
 
- Repository URL: [Paste your GitHub Repo Link Here]
+ Repository URL:https://github.com/hind707/OS-Assignment3-Hind-Mohammed/tree/main
 
-Number of commits: 4
+Number of commits: 7
 
 Commit messages:
 
 Set my student ID
 
 1- Completed Task 1: Added ReentrantLock to protect shared variables
-
 2- Task 2 completed: Added strict protection for execution log
-
 3- Task 3 completed: Successfully implemented Semaphore for CPU scheduling
+4- Task 3 completed: Successfully implemented Semaphore for CPU scheduling without deadlocks.
+5- Updated assignment documentation with detailed development log entries, including implementation of ReentrantLock and Semaphore for synchronization, and clarified testing procedures and results.
+6-Refactor SharedResources class: remove TODO comments and clarify synchronization mechanisms
+7-Update ASSIGNMENT_DOCUMENTATION.md
+
+
 
 ---
 
